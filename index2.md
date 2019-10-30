@@ -1,4 +1,4 @@
-# Cecile de Bezenac
+
 
 ## Biography
 As part of the 2019 cohort of the CDT in Data Analytics and Scociety, I am a first year doctoral student based in both
