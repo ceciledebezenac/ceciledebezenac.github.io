@@ -1,3 +1,4 @@
+# Cecile de Bezenac
 
 ## Biography
 As part of the 2019 cohort of the CDT in Data Analytics and Scociety, I am a first year doctoral student based in both
@@ -12,9 +13,9 @@ I am interested in identifying and modelling the social dynamics that make up th
 ## Projects
 I have been able to participate in various projects dealing with urban planning and governance, each one representing different interests and some of the many stances stakeholders adopt in regards to the construction of a city. Some of these are briefly summarised here. 
  
- #### Redefining a social housing scheme for an intermediate social class in the Paris region. 
- #### Designing efficient strategies for the furture development of the Seine valley.
- #### ABM model to predict general practitioner mobility in France. 
- #### Multiscale approach to identify complex patterns of spatial segregation. 
+- Redefining a social housing scheme for an intermediate social class in the Paris region. 
+- Designing efficient strategies for the furture development of the Seine valley.
+- ABM model to predict general practitioner mobility in France. 
+- Multiscale approach to identify complex patterns of spatial segregation. 
  
 
