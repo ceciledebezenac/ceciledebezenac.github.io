@@ -14,7 +14,7 @@ I am interested in identifying and modelling the social dynamics that make up th
 ## Projects
 I have been able to participate in various projects dealing with urban planning and governance, each one representing different interests and some of the many stances stakeholders adopt in regards to the construction of a city. For more information visit [my projects](projects/projects.md) 
  
-- Redefining a social housing scheme for an intermediate social class in the Paris region. 
+- Redefining a social housing scheme for an intermediate social class in the Paris region. [more info](social_housing.md) 
 - Designing efficient strategies for the furture development of the Seine valley.
 - ABM model to predict general practitioner mobility in France. 
 - Multiscale approach to identify complex patterns of spatial segregation. 
